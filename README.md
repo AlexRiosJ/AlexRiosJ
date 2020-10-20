@@ -4,7 +4,7 @@
 
 # My name is **Alejandro Ríos**
 
-### Musician 🎵 and software dev 💻
+### 🎵 Musician and software dev 💻
 
 ![Cat](./assets/cat.gif)
 
