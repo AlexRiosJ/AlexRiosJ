@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**AlexRiosJ/alexriosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everyone! ✌
 
-Here are some ideas to get you started:
+# My name is **Alejandro Ríos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Musician 🎵 and software dev 💻
+
+![Cat](./assets/cat.gif)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/alexriosj/)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://www.github.com/alexriosj/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black)](https://twitter.com/AlexRios979)
+
+</div>
